@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from app.api.endpoints import items
+from api.endpoints import items
 
 app = FastAPI()
 
